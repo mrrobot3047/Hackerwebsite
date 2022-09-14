@@ -1,0 +1,145 @@
+*{
+    box-sizing:border-box;
+}
+.nav-item{
+    color: white;
+}
+#ab{
+    color: white;
+}
+.nav-item{
+    padding-left: 50px;
+}
+#abc{
+    background-color: rgb(156, 161, 235);
+    border-radius: 40px;
+    padding-left: 20px;
+}
+#button1{
+    color: white;
+}
+#abcd{
+    margin-left: 30px;
+    color: white;
+}
+header{
+    background: #1878e6;
+    background: var(--bggradient);
+}
+:root{
+    --bggradient:linear-gradient(to bottom,#86b7f0,#1878e6)
+}
+header #ab:hover{
+    color:black
+}
+header #abcd:hover{
+    color: black;
+}
+header .row.col-md-5{
+    padding: 4.2vmin 1vmin;
+
+}
+
+header .row.col-md-7 {
+    padding: 22vmin 1vmin;
+    padding-bottom: 35vmin;
+
+}
+header .row .col-md-5 img{
+    width: 120%;
+}
+header.container.col-md-7 h6{
+    padding: 1vmin;
+    letter-spacing: 4px;
+}
+header.container.col-md-7 h1{
+    font-size: 8.5vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+}
+#htr{
+    margin-top: 100px;
+}
+#htr p{
+    color: white;
+}
+#htr h6{
+    color: white;
+}
+#htr h1{
+    color: white;
+}
+#btn1{
+    border-radius: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 40px;
+    background-color: rgb(148, 185, 240);
+}
+#btn1:hover{
+    color: rgb(255, 255, 255);
+}
+#htre{
+    margin-top: 40px;
+}
+#htre,h1,h2{
+    color: rgb(20, 125, 196);
+
+   
+}
+.card-group{
+    padding: 50px;
+}
+#videos1{
+    margin-top: 15px;
+
+}
+#videos1 h6{
+    color: rgb(45, 135, 238);
+    padding: 10px;
+}
+#videoss{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 60px;
+}
+#carouselExampleCaptions{
+    width: 500px;
+    height: 500px;
+    
+}
+#image1{
+    width: 700px;
+}
+.card-body{
+    padding: 30px;
+    margin-left: 40px;
+}
+#htre1 {
+    margin-top: 40px;
+}
+
+#htre1,
+h1 {
+    color: rgb(238, 70, 48);
+
+
+}
+#htre1 h2{
+    color:rgb(24, 88, 107) ;
+}
+.card-body h5, p{
+    color: rgb(68, 66, 179);
+}
+#images{
+    margin-top: 20px;
+}
+.card-title{
+    padding-left: 10px;
+}
+.card-text{
+    padding-left: 20px;
+}
+#instructors{
+    border-radius: 50px;
+}
